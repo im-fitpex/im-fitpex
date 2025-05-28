@@ -14,15 +14,3 @@
 - Solving complex problems with creative solutions
 
 ---
-
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-| Metric                   | Count            |
-|--------------------------|------------------|
-| GitHub Repositories      | ![repos](https://img.shields.io/github/repos/yourusername) |
-| Commits (last year)      | ![commits](https://img.shields.io/github/commit-activity/y/yourusername) |
-| Stars Received           | ![stars](https://img.shields.io/github/stars/yourusername?style=social) |
-
-</details>
