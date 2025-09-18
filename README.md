@@ -1,7 +1,7 @@
 # Hi, I’m Dmitriy Dydin 👋
 
 **🔭 I’m currently open for full-time, remote opportunities in:**  
-- **DevOps Engineering**  
+- **DevOps&ML Engineering**  
 - **Software Development**  
 - **Information Security**  
 - **OSINT**
